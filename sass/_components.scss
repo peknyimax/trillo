@@ -114,6 +114,10 @@
         align-items: center;
     }
 
+    &__user {
+        background-image: url(../img/sprite.svg#icon-user);
+    }
+
     &__user-dropdown {
         opacity: 0;
         visibility: hidden;
