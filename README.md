@@ -1,6 +1,6 @@
 # trillo
 Fictional booking service made as a test task using materials and design from advanced CSS course by Jonas Schmedtmann (Udemy) <br>
-[Check the dem]()
+[Check the demo](https://peknyimax.github.io/trillo/)
 
 ### Uses:
 
@@ -8,4 +8,3 @@ Fictional booking service made as a test task using materials and design from ad
 - Responsive design
 - Responsive images
 - Animations
-
